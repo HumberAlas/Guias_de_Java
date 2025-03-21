@@ -1,11 +1,16 @@
+lambdas\AtomicScope.class
 main\Main$1.class
 services\IPrinter.class
+lambdas\Persona.class
 implementations\ImplementacionDB2.class
+lambdas\ScopeVariable.class
 main\Main.class
 models\Modelo1.class
 models\Modelo2.class
+lambdas\Util.class
 lambdas\LambdaApp.class
 lambdas\LambdasFor.class
+lambdas\MethodReferences.class
 lambdas\LambdaGenerics.class
 lambdas\LambdaApp$1.class
 implementations\ImplementacionDB1.class
@@ -13,3 +18,4 @@ services\IMath.class
 services\ServicesDB2.class
 services\InterfaceDB1.class
 com\mycompany\interfazproyecto\InterfazProyecto.class
+lambdas\PredicateExample.class
